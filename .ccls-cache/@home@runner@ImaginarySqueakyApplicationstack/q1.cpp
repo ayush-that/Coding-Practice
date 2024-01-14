@@ -1,4 +1,5 @@
-// WAP to accept age and tell if adult or not
+// Write a program that takes an input of age
+// and prints if you are adult or not
 
 #include <bits/stdc++.h>
 using namespace std;
