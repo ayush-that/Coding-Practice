@@ -1,1 +1,5 @@
-// wap to accept age and tell if they are 
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+  return 0;
+}

@@ -1,1 +1,1 @@
-// wap to accept age and tell if they are 
+#include<bits/std
