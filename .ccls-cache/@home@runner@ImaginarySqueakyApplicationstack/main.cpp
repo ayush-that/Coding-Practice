@@ -1,1 +1,5 @@
-#include<bits/std
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+  re
+}
